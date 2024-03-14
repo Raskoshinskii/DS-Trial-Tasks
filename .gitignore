@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+
+**/*.csv
+**/*.xlsx
+**/*.docx
+**/*.parquet
+
+**/catboost_info/
